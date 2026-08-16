@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Focus Timer</string>
+    <string name="accessibility_service_label">Focus Timer</string>
+    <string name="accessibility_service_description">Detecta cuándo entras o sales de las aplicaciones que seleccionaste para activar el temporizador.</string>
+    <string name="special_use_fgs_reason">Mantener activo el temporizador de enfoque mientras el usuario utiliza una aplicación seleccionada.</string>
+</resources>
